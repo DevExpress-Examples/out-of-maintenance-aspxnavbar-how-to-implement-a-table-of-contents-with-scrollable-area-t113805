@@ -2,7 +2,7 @@
 *Files to look at*:
 
 * [scripts.js](./CS/Content/scripts.js) (VB: [scripts.js](./VB/Content/scripts.js))
-* [Default.aspx](./CS/Default.aspx) (VB: [Default.aspx.vb](./VB/Default.aspx.vb))
+* [Default.aspx](./CS/Default.aspx) (VB: [Default.aspx](./VB/Default.aspx))
 * [Default.aspx.cs](./CS/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/Default.aspx.vb))
 <!-- default file list end -->
 # ASPxNavBar - How to implement a table of contents with scrollable area
