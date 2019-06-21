@@ -6,6 +6,9 @@
 * [Default.aspx.cs](./CS/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/Default.aspx.vb))
 <!-- default file list end -->
 # ASPxNavBar - How to implement a table of contents with scrollable area
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/t113805/)**
+<!-- run online end -->
 
 
 <p>This example demonstrates how to implement a table of contents with the scrollable area using the ASPxNavBar control. An xml file is used as a data source here, however it is possible to do the same with any other data source.<br />The main idea is to add items both in ASPxNavBar and the scrollable area when you process an entry from the data source.<br /><br />Once items are added, implement the function that will:<br />1) Determine an element that should be selected as an active item in the navbar:</p>
