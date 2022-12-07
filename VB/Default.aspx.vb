@@ -7,7 +7,7 @@ Imports System.Web.UI
 Imports System.Web.UI.HtmlControls
 Imports System.Web.UI.WebControls
 Imports System.Xml
-Imports DevExpress.Web.ASPxNavBar
+Imports DevExpress.Web
 
 Partial Public Class _Default
 	Inherits System.Web.UI.Page
